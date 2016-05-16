@@ -2,6 +2,10 @@
   "name": "mcface",
   "version": "1.0.1",
   "description": "Descriptiony McDescriptionface",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kesne/mcface.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "node test"
