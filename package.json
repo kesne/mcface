@@ -1,0 +1,14 @@
+{
+  "name": "mcface",
+  "version": "1.0.0",
+  "description": "Descriptiony McDescriptionface",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Jordan Gensler <jordan.gensler",
+  "license": "MIT",
+  "dependencies": {
+    "capitalize-first-char": "^1.0.0"
+  }
+}
