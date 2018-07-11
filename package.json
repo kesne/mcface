@@ -13,14 +13,14 @@
   "author": "Jordan Gensler <jordan.gensler",
   "license": "MIT",
   "dependencies": {
+    "@characters/a": "^1.1.2",
+    "@characters/c": "^1.1.2",
+    "@characters/e": "^1.1.2",
+    "@characters/f": "^1.1.2",
+    "@characters/m-uppercase": "^1.1.2",
+    "@characters/space": "^1.1.2",
+    "@characters/y": "^1.1.2",
     "capitalize-first-char": "1.0.0",
-    "strands": "^1.0.1",
-    "the-letter-a": "^1.0.0",
-    "the-letter-c": "^1.0.0",
-    "the-letter-e": "^1.0.0",
-    "the-letter-f": "^1.0.0",
-    "the-letter-m": "^1.0.0",
-    "the-letter-space": "^1.0.1",
-    "the-letter-y": "^1.0.0"
+    "strands": "^1.0.1"
   }
 }
